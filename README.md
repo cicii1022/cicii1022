@@ -36,7 +36,7 @@ cache_seconds=21600
 
 ![Skill Icons](https://skillicons.dev/icons?i=bash,powershell,vim,md,git,github,gitlab,aws,cloudflare)
 
-![Skill Icons](https://skillicons.dev/icons?i=py,java,kotlin,c,cpp,rust,fortran)
+![Skill Icons](https://skillicons.dev/icons?i=py,java,kotlin,c,cpp,cs,rust,fortran)
 
 ![Skill Icons](https://skillicons.dev/icons?i=spring,flask,nodejs,express,actix,maven,gradle,cmake)
 
