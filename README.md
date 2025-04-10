@@ -32,7 +32,7 @@ cache_seconds=21600
 
 我是一名全干菜鸟🐤，以下是我目前正在学习的技术栈👨🏼‍💻：
 
-![Skill Icons](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,apple,vscode,idea,androidstudio,pycharm,clion)
+![Skill Icons](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,apple,vscode,idea,androidstudio,pycharm,visualstudio,clion)
 
 ![Skill Icons](https://skillicons.dev/icons?i=bash,powershell,vim,md,git,github,gitlab,aws,cloudflare)
 
