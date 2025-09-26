@@ -30,7 +30,7 @@ cache_seconds=21600
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?cache_seconds=21600&disable_animations=false&hide_border=true&hide_title=false%langs_count=5&locale=cn&theme=transparent&username=cicii1022)
 
-我是一名全干菜鸟🐤，以下是我目前正在学习的技术栈👨🏼‍💻：
+<!-- 我是一名全干菜鸟🐤，以下是我目前正在学习的技术栈👨🏼‍💻：
 
 ![Skill Icons](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,apple,vscode,idea,androidstudio,pycharm,visualstudio,clion)
 
@@ -44,4 +44,4 @@ cache_seconds=21600
 
 ![Skill Icons](https://skillicons.dev/icons?i=vite,pnpm,npm,webpack,babel,pinia,svg,materialui,figma,wasm)
 
-![Skill Icons](https://skillicons.dev/icons?i=nginx,mysql,redis,postgres,postman,kafka,rabbitmq,docker,kubernetes)
+![Skill Icons](https://skillicons.dev/icons?i=nginx,mysql,redis,postgres,postman,kafka,rabbitmq,docker,kubernetes) -->
