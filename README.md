@@ -26,9 +26,9 @@ cache_seconds=21600
 &theme=transparent
 &username=cicii1022) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?cache_seconds=21600&disable_animations=false&hide_border=true&hide_title=false&locale=cn&number_format=long&rank_icon=percentile&show_icons=true&theme=transparent&username=cicii1022)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?cache_seconds=21600&disable_animations=false&hide_border=true&hide_title=false&locale=cn&number_format=long&rank_icon=percentile&show_icons=true&theme=transparent&username=cicii1022) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?cache_seconds=21600&disable_animations=false&hide_border=true&hide_title=false%langs_count=5&locale=cn&theme=transparent&username=cicii1022)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?cache_seconds=21600&disable_animations=false&hide_border=true&hide_title=false%langs_count=5&locale=cn&theme=transparent&username=cicii1022) -->
 
 <!-- 我是一名全干菜鸟🐤，以下是我目前正在学习的技术栈👨🏼‍💻：
 
